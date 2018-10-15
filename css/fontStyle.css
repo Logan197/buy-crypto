@@ -1,0 +1,837 @@
+@media (max-width: 576px) {
+  .Note-p3 {
+    text-align: center;
+  }
+  .Rectangle-7 {
+    text-align: center;
+  }
+  .Title-item-p4 {
+    margin-top: 50px;
+  }
+  .txt-center {
+    text-align: center;
+  }
+  
+  .Hollow-SignUp-Container{
+    margin-top: 10px;
+  }
+}
+@media screen and (max-width: 992px) and (min-width: 576px) {
+  .Hollow-SignUp-Container{
+    margin-top: 10px;
+  }
+  .Support {
+    text-align: center;
+  }
+  .Title-item-p4 {
+    margin-top: 50px;
+  }
+  .Rectangle-7 {
+    text-align: center;
+  }
+  .logo {
+    margin-bottom: 100px;
+  }
+  .Note-p3 {
+    text-align: center;
+  }
+}
+
+@media (min-width: 992px) {
+  .Hollow-SignUp-Container{
+    margin-top: 0px;
+  }
+  .tx-right {
+    text-align: right;
+  }
+  .tx-center {
+    text-align: center;
+  }
+  .tx-left {
+    text-align: left;
+  }
+}
+
+@font-face {
+    font-family: Avenir-Roman;
+    src: url("../fonts/Avenir\ Roman.otf") format("opentype");
+  }
+
+  @font-face {
+    font-family: Avenir;
+    src: url("../fonts/Avenir.ttf") format("truetype");
+  }
+
+  .Follow-us-for-produc {
+    font-family: Avenir-Roman;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    text-align: center;
+    color: #505c6c;
+    margin-top: 50px;
+  }
+
+  .The-beginners-guide {
+    font-family: 'Montserrat', sans-serif;;
+    font-size: 44px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.4;
+    letter-spacing: -1px;
+    color: var(--white);
+  }
+
+  .Traders-with-a-limit {
+    font-family: Avenir-Roman;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    color: var(--white);
+  }
+
+  .Liquid {
+    font-family: Avenir;
+    font-size: 38px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1;
+    letter-spacing: -2px;
+    text-align: center;
+    color: #0090ff;
+    margin-top: 150px;
+  }
+  
+  .Signal {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 76px;
+    font-weight: 800;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1;
+    letter-spacing: -2px;
+    text-align: center;
+    color: #0090ff;
+    margin-top: 20px;
+  }
+
+  .BY-WAYNE-BRADY {
+    font-family: RobotoMono;
+    font-size: 12px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    color: var(--white);
+  }
+
+  .The-title-item-p1 {
+    font-family: 'Montserrat', sans-serif;;
+    font-size: 24px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.4;
+    letter-spacing: -0.5px;
+    color: #414a56;
+  }
+
+  .The-content-item-p1 {
+    font-family: Avenir-Roman;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    color: #505c6c;
+  }
+
+  .More-articles {
+    font-family: Avenir;
+    font-size: 16px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    color: #0090ff;
+  }
+
+  .Follow-us-for-announ {
+    font-family: Avenir-Roman;
+    font-size: 16px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    color: #505c6c;
+    margin-top: 20px;
+  }
+
+  .button-subscribe {
+    font-family: Avenir;
+    font-size: 16px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    color: var(--white);
+    margin: 0 auto;
+  }
+
+  .News {
+    font-family: Avenir;
+    font-size: 14px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0px;
+    color: #0090ff;
+  }
+
+  .footer-news-item {
+    font-family: Avenir-Roman;
+    font-size: 12px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.1px;
+    color: #0090ff;
+  }
+  
+  .author {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 12px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    color: #505c6c;
+  }
+
+.How-to-buy-cryptocur {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 44px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1;
+  letter-spacing: normal;
+  color: #414a56;
+}
+
+.With-all-the-news-an {
+    font-family: Avenir-Roman;
+    font-size: 24px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.58;
+    letter-spacing: normal;
+    text-align: center;
+    color: #505c6c;
+  }
+
+  .title-item-p2 {
+    font-family: Avenir;
+    font-size: 24px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    color: #505c6c;
+  }
+
+  .content-1 {
+    font-family: Avenir-Roman;
+    font-size: 20px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    color: #505c6c;
+  }
+
+  .Share-this-article {
+    font-family: Avenir;
+    font-size: 18px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    color: #0090ff;
+  }
+
+  .Related-articles {
+    font-family: Avenir;
+    font-size: 16px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    color: #505c6c;
+  }
+
+  .See-all-articles {
+    font-family: Avenir;
+    font-size: 16px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    color: #0090ff;
+  }
+
+  .Author-high {
+    font-family: 'Roboto Mono', monospace;;
+    font-size: 14px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    color: #505c6c;
+  }
+
+  .Author-low {
+    font-family: 'Roboto Mono', monospace;;
+    font-size: 14px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    color: rgba(80, 92, 108, 0.5);
+  }
+
+  .ICO-MISSION-CONTROL {
+    font-family: Avenir;
+    font-size: 14px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 1.5px;
+    color: var(--white);
+  }
+
+  .The-Liquid-ICO-pledg {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 56px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.3;
+    letter-spacing: normal;
+    text-align: center;
+    color: var(--white);
+  }
+
+  .A-better-way-to-take {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 28px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.4;
+    letter-spacing: normal;
+    text-align: center;
+    color: var(--white);
+  }
+
+  .button-explore {
+    font-family: Avenir;
+    font-size: 16px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    color: var(--white);
+    margin: 0 auto;
+    padding-top: 20px;
+  }
+
+  .LIQUIDS-VISION-ON-I {
+    font-family: Avenir-Roman;
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #0090ff;
+  }
+
+  .Our-Commitment {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 36px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.39;
+    letter-spacing: normal;
+    color: #0090ff;
+  }
+
+  .Forget-what-you-know {
+    font-family: Avenir-Roman;
+    font-size: 18px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.66;
+    letter-spacing: normal;
+    color: #344d7c;
+  }
+
+  .Title-item-p3 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    font-weight: 800;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #153268;
+  }
+
+  .Content-item-p3 {
+    font-family: Avenir-Roman;
+    font-size: 16px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    color: #153268;
+  }
+
+  .Title-footer-p3 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.21;
+    letter-spacing: normal;
+    color: #0090ff;
+  }
+
+  .Item-footer-p3 {
+    font-family: Avenir-Roman;
+    font-size: 16px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 2.57;
+    letter-spacing: normal;
+    color: rgba(52, 77, 124, 0.8);
+  }
+
+ .Note-p3 {
+    font-family: Avenir-Roman;
+    font-size: 14px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.07;
+    letter-spacing: normal;
+    color: rgba(52, 77, 124, 0.8);
+  }
+
+  .Support {
+    font-family: Avenir;
+    font-size: 14px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 0.88;
+    letter-spacing: normal;
+    color: var(--white);
+  }
+
+  .support {
+    font-family: Avenir;
+    font-size: 15px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    color: rgba(52, 77, 124, 0.8);
+  }
+
+  .Sign-Up {
+    font-family: Avenir-Roman;
+    font-size: 13px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    color: var(--white);
+  }
+
+  .Why-Choose-us {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 36px;
+    font-weight: 800;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.39;
+    letter-spacing: normal;
+    text-align: center;
+    color: #0090ff;
+  }
+
+  .Title-item-p4 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #153268;
+  }
+
+  .Content-item-p4 {
+    font-family: Avenir-Roman;
+    font-size: 16px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    color: #153268;
+  }
+
+  .Make-the-most-out-of {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 36px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    color: var(--white);
+  }
+
+  .Easily-fund-your-acc {
+    font-family: Avenir-Roman;
+    font-size: 20px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: center;
+    color: var(--white);
+  }
+
+  .Get-Started {
+    font-family: Avenir-Roman;
+    font-size: 16px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1;
+    letter-spacing: 0.5px;
+    text-align: center;
+    color: var(--white);
+    margin: 0 auto;
+  }
+
+  .contact-support {
+    font-family: Avenir-Roman;
+    font-size: 16px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1;
+    letter-spacing: 0.5px;
+    text-align: center;
+    color: #0090ff;
+    margin: 0 auto;
+  }
+
+  .Liquid-makes-it-easy {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 36px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    color: #0090ff;
+  }
+
+  .Open-an-account-on-L {
+    font-family: Avenir-Roman;
+    font-size: 18px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: center;
+    color: #344d7c;
+  }
+
+  .Leverage-your-SGD-wi {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    color: var(--white);
+  }
+
+  .Fund-your-account-wi {
+    font-family: Avenir-Roman;
+    font-size: 18px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    color: var(--white);
+  }
+
+  .Try-Margin-Trading {
+    font-family: Avenir;
+    font-size: 16px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.5px;
+    color: var(--white);
+  }
+
+  .Were-here-to-help-y {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 36px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    color: #0090ff;
+  }
+
+  .Our-Liquid-Customer {
+    font-family: Avenir-Roman;
+    font-size: 18px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    color: #344d7c;
+  }
+
+  .Contact-Support {
+    font-family: Avenir;
+    font-size: 16px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1;
+    letter-spacing: 0.5px;
+    color: #344d7c;
+  }
+
+  .Start-Investing-Your {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 36px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: center;
+    color: #0090ff;
+  }
+
+  .Open-your-account-in {
+    font-family: Avenir-Roman;
+    font-size: 22px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: center;
+    color: #344d7c;
+  }
+
+  .Dropdown {
+    font-family: Avenir;
+    font-size: 16px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 0.88;
+    letter-spacing: normal;
+    color: var(--white);
+  }
+
+
+  .Buy-Bitcoin-with-SGD {
+    object-fit: contain;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 52px;
+    font-weight: 800;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.21;
+    letter-spacing: normal;
+    text-align: center;
+    color: var(--white);
+  }
+
+  .Open-an-account-on-L {
+    object-fit: contain;
+    font-family: Avenir;
+    font-size: 20px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: center;
+    color: var(--white);
+  }
+
+  .BE-THE-CHANGE {
+    object-fit: contain;
+    font-family: Avenir;
+    font-size: 14px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1;
+    letter-spacing: 1.5px;
+    color: #0090ff;
+  }
+
+  .Discover-an-ocean-of {
+    object-fit: contain;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: center;
+    color: #0090ff;
+  }
+
+  .Liquid-supports-mult {
+    object-fit: contain;
+    font-family: Avenir-Roman;
+    font-size: 18px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: center;
+    color: #344d7c;
+  }
+
+  .GET-IN-TOUCH {
+    font-family: Avenir;
+    font-size: 14px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1;
+    letter-spacing: 1.5px;
+    color: #0090ff;
+  }
+
+  .Were-here-to-help-y {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    color: #0090ff;
+  }
+
+  .Our-Liquid-Customer {
+    font-family: Avenir-Roman;
+    font-size: 18px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    color: #344d7c;
+  }
+
+  .Take-your-first-step {
+    object-fit: contain;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 52px;
+    font-weight: 800;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #0090ff;
+  }
+
+  .Open-your-account-an {
+    object-fit: contain;
+    font-family: Avenir;
+    font-size: 22px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.42;
+    letter-spacing: normal;
+    text-align: center;
+    color: #344d7c;
+  }
+
+  .ICO-header {
+    font-family: Avenir;
+    font-size: 14px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 0.88;
+    letter-spacing: normal;
+    color: var(--white);
+  }
+  

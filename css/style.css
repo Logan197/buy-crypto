@@ -1,0 +1,321 @@
+.Liquid-Blog---Home {
+  background-color: #f9f9fb;
+}
+.Nav-Base-Container-80px-H {
+  background-color: #ffffff;
+}
+
+.float-left{
+  float: left;
+}
+
+.Blog{
+  color: #0090ff;
+}
+
+
+.Subscribe {
+  font-family: Avenir;
+  font-size: 14px;
+  font-weight: 900;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1;
+  letter-spacing: normal;
+  color: #0090ff;
+  text-align: center;
+  margin-top: 13px;
+}
+
+.Sign-Up-p1 {
+  font-family: Avenir;
+  font-size: 14px;
+  font-weight: 900;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1;
+  letter-spacing: normal;
+  color: #0090ff;
+  margin-right: 10px;
+}
+.Hollow-Button-Container {
+  border-radius: 4px;
+  background-color: rgba(0, 144, 255, 0.1);
+}
+
+.BG {
+  border-radius: 5px;
+  box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.24);
+  background-color: #0090ff;
+  margin: 0 auto;
+  text-align: center;
+  padding: 15px 10px 15px 10px;
+}
+
+.Rectangle-17 {
+  border-radius: 4px;
+  background-color: #0090ff;
+}
+.Rectangle-18 {
+  border-radius: 4px;
+  background-color: #0090ff;
+}
+.Rectangle-19 {
+  border-radius: 4px;
+  background-color: #0090ff;
+  margin-top: 200px;
+}
+
+.Rectangle-Investors {
+    background-image: url("../images/isometric-isometric-investor.png"); 
+    /* Full height */
+    height: 100%;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+
+.Rectangle-30 {
+  background: url("../images/isometric-isometric-Lending-P.png") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.Rectangle-Buy {
+  background-image: url("../images/isometric-isometric-Buy.png"); 
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.Rectangle-21{
+  background-image: linear-gradient(to bottom, #36b4ff, #0090ff);
+}
+
+.Rectangle-22{
+  background-image: linear-gradient(to bottom, #36b4ff, #0090ff);
+}
+
+.Input-style {
+  width: 329px;
+  border-radius: 4px;
+  border: solid 1px #e5e9f0;
+}
+
+.m-auto {
+  margin: auto;
+}
+
+.bg-color {
+  background-color: #ffffff;
+}
+.bg-color-2 {
+  background-color: #f5f6f9;
+}
+
+.mt-250{
+  margin-top: 250px;
+}
+
+.mt-120 {
+  margin-top: 120px;
+  margin-bottom: 120px;
+}
+.margin-text-buy-cripto {
+  margin-top: 100px;
+  margin-bottom: 300px;
+}
+.mt-50 {
+  margin-top: 50px;
+}
+
+.mt-100 {
+  margin-top: 100px;
+}
+
+.pd-50 {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.pd-50-t-200-bt {
+  padding-top: 50px;
+  padding-bottom: 200px;
+}
+
+.pd-100 {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.mt-40 {
+  margin-top: 40px;
+}
+
+.mt-30 {
+  margin-top: 30px;
+}
+
+.mt-20 {
+  margin-top: 20px;
+}
+
+.mt-10 {
+  margin-top: 10px;
+}
+
+.mt-150 {
+  margin-top: 150px;
+}
+
+.mt-200 {
+  margin-top: 200px;
+}
+
+.mt-0 {
+  margin-top : 0px;
+}
+
+.mb-50 {
+  margin-bottom: 50px;
+}
+
+.ml-20{
+  margin-left: 20px;
+}
+
+.mr-10{
+  margin-right: 10px;
+}
+
+.Nav-Base-Container-80px-I {
+  box-shadow: 0 2px 16px 0 rgba(21, 50, 104, 0.32);
+  background-color: #038bda;
+}
+
+.bank-bitcoin-business {
+  background-color: #0090ff;
+  margin-top: 150px;
+}
+
+.by-in{
+  color:#d8d8d8;
+}
+
+.by-in2{
+  color: rgba(80, 92, 108, 0.5);
+}
+
+.BG-explore {
+  border-radius: 5px;
+  box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.24);
+  background-color: #0090ff;
+  margin: 0 auto;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.Rectangle-3 {
+  box-shadow: inset 0 1px 0 0 rgba(216, 222, 233, 0.7), inset 0 -1px 0 0 rgba(216, 222, 233, 0.7);
+  padding-top: 40px;
+  padding-bottom: 30px;
+}
+
+.color-white {
+  color: white;
+}
+
+.Hollow-SignUp-Container {
+  border-radius: 4px;
+  border: solid 1px var(--white);
+  padding: 15px 10px 15px 10px;
+}
+
+.button-started{
+  border-radius: 5px;
+  border: solid 1px var(--white);
+  margin: 0 auto;
+  margin-top: 50px;
+  text-align: center;
+  padding: 15px 10px 15px 10px;
+}
+
+.button-started-2{
+
+  border-radius: 5px;
+  border: solid 1px var(--white);
+  margin-top: 50px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  padding: 15px 10px 15px 10px;
+}
+
+.button-support{
+  border-radius: 5px;
+  border: solid 1px;
+  border-color: #0090ff;
+  margin-top: 50px;
+  padding: 15px 10px 15px 10px;
+}
+
+.title-item-I {
+  font-size: 24px;
+  color: #153268;
+}
+.Rectangle-7 {
+  box-shadow: inset 0 1px 0 0 #d8dee9;
+  background-color: #f5f6f9;
+}
+
+.footer-item-title {
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: normal;
+  color: #0090ff;
+}
+
+.border-top-bottom{
+  border-top: 1px solid;
+  border-bottom: 1px solid;
+}
+
+.victor-garcia-621901-unsplash {
+  background-blend-mode: multiply, screen, overlay, ;
+  background-image: linear-gradient(to bottom, rgba(0, 144, 255, 0.8), rgba(0, 144, 255, 0.8)), linear-gradient(to bottom, #153268, #153268), linear-gradient(to bottom, #0090ff, #0090ff), linear-gradient(to bottom, #36b4ff, #0090ff);
+}
+
+.BTC-SGD-market {
+  background-color: #0090ff;
+}
+
+.position-bottom{
+  position: relative;
+  bottom: -65px;
+}
+
+.z-index-1{
+  position: relative;
+  z-index: 1;
+}
+
+.z-index-2{
+  position: relative;
+  z-index: 2;
+}
+
+.z-index-0{
+  position: relative;
+  z-index: 0;
+}
+
+.bg-red {
+  background-color: red;
+}
